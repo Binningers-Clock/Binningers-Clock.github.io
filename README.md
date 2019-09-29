@@ -1,5 +1,10 @@
 ## Welcome to Binningers Clock
 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Roadmap](./roadmap.html).
+
+
 You can use the [editor on GitHub](https://github.com/Binningers-Clock/Binningers-Clock.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
