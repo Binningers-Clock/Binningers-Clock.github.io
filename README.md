@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Binningers Clock
 
 You can use the [editor on GitHub](https://github.com/Binningers-Clock/Binningers-Clock.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
